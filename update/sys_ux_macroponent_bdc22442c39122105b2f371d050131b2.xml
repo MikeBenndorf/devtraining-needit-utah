@@ -464,7 +464,7 @@
                                                                                 {
                                                                                     "broker": null,
                                                                                     "clientScript": {
-                                                                                        "sysId": "28d4ef371b858d10b81fdce7cc4bcb18"
+                                                                                        "sysId": "92c22842c39122105b2f371d050131bf"
                                                                                     },
                                                                                     "conditional": null,
                                                                                     "declarativeAction": null,
@@ -1417,7 +1417,7 @@
                                 {
                                     "broker": null,
                                     "clientScript": {
-                                        "sysId": "f3c4af371b858d10b81fdce7cc4bcb8c"
+                                        "sysId": "aac26842c39122105b2f371d0501313f"
                                     },
                                     "conditional": null,
                                     "declarativeAction": null,
@@ -1529,7 +1529,7 @@
                                             {
                                                 "broker": null,
                                                 "clientScript": {
-                                                    "sysId": "ecd4ef371b858d10b81fdce7cc4bcb32"
+                                                    "sysId": "66c26842c39122105b2f371d05013125"
                                                 },
                                                 "conditional": null,
                                                 "declarativeAction": null,
@@ -1556,7 +1556,7 @@
                                             {
                                                 "broker": null,
                                                 "clientScript": {
-                                                    "sysId": "efc4af371b858d10b81fdce7cc4bcb71"
+                                                    "sysId": "eec26842c39122105b2f371d05013129"
                                                 },
                                                 "conditional": null,
                                                 "declarativeAction": null,
@@ -1732,7 +1732,7 @@
                                             {
                                                 "broker": null,
                                                 "clientScript": {
-                                                    "sysId": "1cd4af371b858d10b81fdce7cc4bcbc0"
+                                                    "sysId": "1ac22842c39122105b2f371d050131ba"
                                                 },
                                                 "conditional": null,
                                                 "declarativeAction": null,
@@ -1759,7 +1759,7 @@
                                             {
                                                 "broker": null,
                                                 "clientScript": {
-                                                    "sysId": "78d4ef371b858d10b81fdce7cc4bcb51"
+                                                    "sysId": "12c22842c39122105b2f371d050131fd"
                                                 },
                                                 "conditional": null,
                                                 "declarativeAction": null,
@@ -2114,7 +2114,7 @@
                     {
                         "broker": null,
                         "clientScript": {
-                            "sysId": "6bc4af371b858d10b81fdce7cc4bcb6d"
+                            "sysId": "52c22842c39122105b2f371d050131de"
                         },
                         "conditional": null,
                         "declarativeAction": null,
@@ -2141,7 +2141,7 @@
                     {
                         "broker": null,
                         "clientScript": {
-                            "sysId": "d4d4af371b858d10b81fdce7cc4bcbb4"
+                            "sysId": "26c26842c39122105b2f371d05013114"
                         },
                         "conditional": null,
                         "declarativeAction": null,
@@ -2282,7 +2282,7 @@
                     {
                         "broker": null,
                         "clientScript": {
-                            "sysId": "ccd4af371b858d10b81fdce7cc4bcb94"
+                            "sysId": "aac26842c39122105b2f371d0501310f"
                         },
                         "conditional": null,
                         "declarativeAction": null,
@@ -2309,7 +2309,7 @@
                     {
                         "broker": null,
                         "clientScript": {
-                            "sysId": "d4d4af371b858d10b81fdce7cc4bcbb4"
+                            "sysId": "26c26842c39122105b2f371d05013114"
                         },
                         "conditional": null,
                         "declarativeAction": null,
@@ -2336,7 +2336,7 @@
                     {
                         "broker": null,
                         "clientScript": {
-                            "sysId": "81d4ef371b858d10b81fdce7cc4bcb86"
+                            "sysId": "2ec26842c39122105b2f371d05013101"
                         },
                         "conditional": null,
                         "declarativeAction": null,
@@ -2405,7 +2405,7 @@
                     {
                         "broker": null,
                         "clientScript": {
-                            "sysId": "95d4ef371b858d10b81fdce7cc4bcb99"
+                            "sysId": "a6c26842c39122105b2f371d05013106"
                         },
                         "conditional": null,
                         "declarativeAction": null,
@@ -2432,7 +2432,7 @@
                     {
                         "broker": null,
                         "clientScript": {
-                            "sysId": "f3c4af371b858d10b81fdce7cc4bcb77"
+                            "sysId": "6ac26842c39122105b2f371d0501312e"
                         },
                         "conditional": null,
                         "declarativeAction": null,
@@ -2596,7 +2596,7 @@
                     {
                         "broker": null,
                         "clientScript": {
-                            "sysId": "0dd4ef371b858d10b81fdce7cc4bcb73"
+                            "sysId": "82c22442c39122105b2f371d050131b8"
                         },
                         "conditional": null,
                         "declarativeAction": null,
@@ -2676,7 +2676,7 @@
                     {
                         "broker": null,
                         "clientScript": {
-                            "sysId": "78d4ef371b858d10b81fdce7cc4bcb51"
+                            "sysId": "12c22842c39122105b2f371d050131fd"
                         },
                         "conditional": null,
                         "declarativeAction": null,
@@ -2739,7 +2739,7 @@
                     {
                         "broker": null,
                         "clientScript": {
-                            "sysId": "34d4ef371b858d10b81fdce7cc4bcb62"
+                            "sysId": "d2c22842c39122105b2f371d050131d0"
                         },
                         "conditional": null,
                         "declarativeAction": null,
@@ -2782,7 +2782,7 @@
         <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <extension_point/>
-        <form_factors/>
+        <form_factors>{}</form_factors>
         <handled_events>509663140f0310107d20409dc4767e00,f8d5cc6c0f0310107d20409dc4767e51,835ec4a00f4310107d20409dc4767eaa,b94818a0cc2cebbe41369181e4c8d6a6,48639d350fe310107d20409dc4767e87,3bcac58cb7731010cd8af8e32e11a971,5a979750533f101035beddeeff7b1231,86a6b0fdb72a2010cd8a1df32e11a9ce</handled_events>
         <interactions/>
         <interfaces/>
@@ -2791,7 +2791,7 @@
         {
             "broker": null,
             "clientScript": {
-                "sysId": "77c4af371b858d10b81fdce7cc4bcb7d"
+                "sysId": "1ec22842c39122105b2f371d050131f3"
             },
             "conditional": null,
             "declarativeAction": null,
@@ -2803,7 +2803,7 @@
         {
             "broker": null,
             "clientScript": {
-                "sysId": "a7c4af371b858d10b81fdce7cc4bcb69"
+                "sysId": "22c26842c39122105b2f371d0501310b"
             },
             "conditional": null,
             "declarativeAction": null,
@@ -2815,7 +2815,7 @@
         {
             "broker": null,
             "clientScript": {
-                "sysId": "78d4ef371b858d10b81fdce7cc4bcb51"
+                "sysId": "12c22842c39122105b2f371d050131fd"
             },
             "conditional": null,
             "declarativeAction": null,
@@ -2827,7 +2827,7 @@
         {
             "broker": null,
             "clientScript": {
-                "sysId": "40d4af371b858d10b81fdce7cc4bcba9"
+                "sysId": "5ec22842c39122105b2f371d050131d4"
             },
             "conditional": null,
             "declarativeAction": null,
@@ -2841,7 +2841,7 @@
         {
             "broker": null,
             "clientScript": {
-                "sysId": "77c4af371b858d10b81fdce7cc4bcb84"
+                "sysId": "96c22842c39122105b2f371d050131f8"
             },
             "conditional": null,
             "declarativeAction": null,
@@ -2853,7 +2853,7 @@
         {
             "broker": null,
             "clientScript": {
-                "sysId": "78d4ef371b858d10b81fdce7cc4bcb51"
+                "sysId": "12c22842c39122105b2f371d050131fd"
             },
             "conditional": null,
             "declarativeAction": null,
@@ -2867,7 +2867,7 @@
         {
             "broker": null,
             "clientScript": {
-                "sysId": "78d4ef371b858d10b81fdce7cc4bcb51"
+                "sysId": "12c22842c39122105b2f371d050131fd"
             },
             "conditional": null,
             "declarativeAction": null,
@@ -2881,7 +2881,7 @@
         {
             "broker": null,
             "clientScript": {
-                "sysId": "48d4af371b858d10b81fdce7cc4bcb9e"
+                "sysId": "d6c22842c39122105b2f371d050131d9"
             },
             "conditional": null,
             "declarativeAction": null,
@@ -2969,7 +2969,7 @@
         {
             "broker": null,
             "clientScript": {
-                "sysId": "d4d4af371b858d10b81fdce7cc4bcbb4"
+                "sysId": "26c26842c39122105b2f371d05013114"
             },
             "conditional": null,
             "declarativeAction": null,
@@ -2983,7 +2983,7 @@
         {
             "broker": null,
             "clientScript": {
-                "sysId": "81d4ef371b858d10b81fdce7cc4bcb86"
+                "sysId": "2ec26842c39122105b2f371d05013101"
             },
             "conditional": null,
             "declarativeAction": null,
@@ -2997,7 +2997,7 @@
         {
             "broker": null,
             "clientScript": {
-                "sysId": "48d4af371b858d10b81fdce7cc4bcb9e"
+                "sysId": "d6c22842c39122105b2f371d050131d9"
             },
             "conditional": null,
             "declarativeAction": null,
@@ -3011,7 +3011,7 @@
         {
             "broker": null,
             "clientScript": {
-                "sysId": "6cd4ef371b858d10b81fdce7cc4bcb41"
+                "sysId": "dac22842c39122105b2f371d050131e2"
             },
             "conditional": null,
             "declarativeAction": null,
@@ -3025,7 +3025,7 @@
         {
             "broker": null,
             "clientScript": {
-                "sysId": "d4d4af371b858d10b81fdce7cc4bcbb4"
+                "sysId": "26c26842c39122105b2f371d05013114"
             },
             "conditional": null,
             "declarativeAction": null,
@@ -3523,16 +3523,16 @@
 ]</state_properties>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-01-21 21:02:43</sys_created_on>
-        <sys_id>57c4eb371b858d10b81fdce7cc4bcb6d</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_created_on>2025-05-05 07:48:16</sys_created_on>
+        <sys_id>bdc22442c39122105b2f371d050131b2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Record</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_ux_macroponent_57c4eb371b858d10b81fdce7cc4bcb6d</sys_update_name>
+        <sys_update_name>sys_ux_macroponent_bdc22442c39122105b2f371d050131b2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-05 07:45:15</sys_updated_on>
+        <sys_updated_on>2025-05-05 07:48:21</sys_updated_on>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=57c4eb371b858d10b81fdce7cc4bcb6d"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=bdc22442c39122105b2f371d050131b2"/>
 </record_update>
